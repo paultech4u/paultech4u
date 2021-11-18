@@ -5,13 +5,13 @@
 
 <h3>Technologies</h3>
 <p>
-<img height=50 src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg">
+<img height=50 src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/>
   
 <img height=50 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/>
   
 <img height=50 src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/>
  
-<img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+<img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/>
  
 <img height=50 src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
  
