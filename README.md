@@ -9,8 +9,8 @@
   
 <img height=50 src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/>
   
-<img height=50 src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/>
- 
+<img src="https://img.icons8.com/color/96/000000/javascript--v2.png"/>
+  
 <img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/>
  
 <img height=50 src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
