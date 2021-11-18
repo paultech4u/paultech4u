@@ -3,7 +3,7 @@
 ### Web Developer || Android Developer(Flutter) 
 
 
-<h3>Technologies</h3>
+<h3>Stack</h3>
 <p>
 <img height=50 src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"/>
   
