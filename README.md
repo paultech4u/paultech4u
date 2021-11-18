@@ -15,7 +15,11 @@
  
 <img height=50 src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
  
-<img height=50 src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/>
+  
+<img src="https://img.icons8.com/color/48/000000/redux.png"/>
+  
+<img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
  
 </p>
 
