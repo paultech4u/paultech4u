@@ -13,9 +13,7 @@
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
   
 <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  
-<img src="https://img.icons8.com/officel/16/000000/react.png"/>
-  
+    
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
   
 <img src="https://img.icons8.com/color/48/000000/redux.png"/>
