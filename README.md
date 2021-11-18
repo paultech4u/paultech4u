@@ -11,8 +11,6 @@
   
 <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/>
   
-<img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"/>
- 
 <img height=50 src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
  
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
