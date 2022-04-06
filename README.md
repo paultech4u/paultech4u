@@ -1,6 +1,6 @@
 # Hi! I'm Paulsimon Edache
 
-### Software Developer || Android Developer(Flutter) 
+### React Software Engineer | Practicing DevOps  
 
 
 <h3>Stack</h3>
