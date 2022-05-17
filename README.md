@@ -1,6 +1,6 @@
 # Hi! I'm Paulsimon Edache
 
-### React Software Engineer | Practicing DevOps  
+### React Software Engineer | DevOps Enthusiast
 
 
 <h3>Stack</h3>
